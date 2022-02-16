@@ -83,3 +83,10 @@ a{
     transform: translateX(-50%);
 }
 
+@media(mx-width: 500px){
+    .audio{
+        width: 71%;
+    height: 40px;
+
+    } 
+}
